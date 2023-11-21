@@ -1,1 +1,1 @@
-print "akash kali"
+print "akash kali bad"
